@@ -1,16 +1,14 @@
-### Hi there 👋
+### <p align="center">Hi there, it's me, DrinSom! 🦖</p>
+#### <p align="center"> but you can call me Adi/Drin </p>
+---
+<p align="center"> Currently a student taking up BS-EMC </p>
 
-<!--
-**DrinSom/DrinSom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<ul>
+  <li> 🌱 I’m currently learning <strong>Game Development</strong></li>
+  <li> 📫 How to reach me: aldrinsombrano@gmail.com </li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Art Portfolio: https://www.artstation.com/drinwhosoar
+
+
